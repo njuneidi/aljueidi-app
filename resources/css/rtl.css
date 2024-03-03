@@ -1,0 +1,4 @@
+/* Forces RTL direction for the entire application */
+body {
+    direction: rtl;
+}
